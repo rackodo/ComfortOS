@@ -2,6 +2,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![Github][github-shield]][github-url]
+![License][license-shield]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -38,15 +40,7 @@
 
 ComfortOS is a program I designed to act as a virtual mini computer that you can relax with after a long and hard day. It's still deep in development, but I hope to be able to make a finished product by the end of 2021.
 
-  [contributors-shield]: https://img.shields.io/github/contributors/theostar-mp3/ComfortOS.svg?style=for-the-badge
-  [contributors-url]: https://github.com/theostar-mp3/ComfortOS/graphs/contributors
-  [forks-shield]: https://img.shields.io/github/forks/theostar-mp3/ComfortOS.svg?style=for-the-badge
-  [forks-url]: https://github.com/theostar-mp3/ComfortOS/network/members
-  [stars-shield]: https://img.shields.io/github/stars/theostar-mp3/ComfortOS.svg?style=for-the-badge
-  [stars-url]: https://github.com/theostar-mp3/ComfortOS/stargazers
-  [issues-shield]: https://img.shields.io/github/issues/theostar-mp3/ComfortOS.svg?style=for-the-badge
-  [issues-url]: https://github.com/theostar-mp3/ComfortOS/issues
-  [product-screenshot]: images/screenshot.png
+
 
 ## Getting Started
 
@@ -59,3 +53,16 @@ Just go to the [releases](https://github.com/theostar-mp3/ComfortOS/releases) pa
 ## Contact
 
 Email: [spicethings9@gmail.com](mailto:spicethings9@gmail.com)
+
+  [contributors-shield]: https://img.shields.io/github/contributors/theostar-mp3/ComfortOS.svg?style=for-the-badge
+  [contributors-url]: https://github.com/theostar-mp3/ComfortOS/graphs/contributors
+  [forks-shield]: https://img.shields.io/github/forks/theostar-mp3/ComfortOS.svg?style=for-the-badge
+  [forks-url]: https://github.com/theostar-mp3/ComfortOS/network/members
+  [stars-shield]: https://img.shields.io/github/stars/theostar-mp3/ComfortOS.svg?style=for-the-badge
+  [stars-url]: https://github.com/theostar-mp3/ComfortOS/stargazers
+  [issues-shield]: https://img.shields.io/github/issues/theostar-mp3/ComfortOS.svg?style=for-the-badge
+  [issues-url]: https://github.com/theostar-mp3/ComfortOS/issues
+  [product-screenshot]: images/screenshot.png  
+  [github-shield]: https://img.shields.io/badge/-Github-black.svg?style=for-the-badge&logo=github&colorB=555
+  [github-url]: https://github.com/theostar-mp3
+  [license-shield]: https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-brightgreen?style=for-the-badge
