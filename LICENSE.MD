@@ -1,0 +1,1 @@
+[ComfortOS](https://github.com/theostar-mp3/ComfortOS) by [Thomas Elliott](https://github.com/theostar-mp3) is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
